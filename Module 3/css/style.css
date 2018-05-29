@@ -1,0 +1,89 @@
+body {
+    display:block;
+    margin: 70px 150px;
+    font-family: Playfair Display, Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+    color:626262;
+}
+.menu-navigation {
+    font-size: 14px;
+    text-transform: uppercase;
+    text-align: center;
+    word-spacing: 85px;
+    width: 570px;
+   }
+.menu-navigation>li {
+    display: inline-block;
+}
+
+.link:hover {
+    color: #03a9f4;
+    text-decoration: none;
+}
+.block-1 {
+    
+    width: 420;
+    height: 476;
+    padding: 105px 60px 134px 0px;
+}
+.block-2{
+    
+    width: 420;
+    height: 476;
+    padding: 0px 0px 134px 0px;
+}
+.block-3{
+    width: 420;
+    height: 476;
+    padding: 0px 60px 134px 0px; 
+}
+.block-4{
+    width: 420;
+    height: 476;
+    padding: 0px 0px 134px 0px; 
+}
+.block-5{
+    width: 420;
+    height: 476;
+    padding: 0px 60px 60px 0px;
+}
+.block-6{
+    width: 420;
+    height: 476;
+    padding: 0px 0px 60px 0px;
+}
+
+.img{
+    width: 420px;
+    height: 280px;
+}
+.h3{
+    font-family: Myriad Pro;
+    width: 420px;
+    color: #b4ad9e;
+    font-weight: normal;
+}
+.h2{
+    font-size: 30px;
+    width: 420px;
+    color: #626262;
+    font-weight: normal;
+}
+.text{
+    width: 420px;
+    color: 626262;
+}
+
+
+
+
+
+
+button{
+    padding: 23px 32px 22px 35px;
+    border:solid 1px black;
+    background-color: #ffffff;
+    text-transform: uppercase;
+    color: #626262;
+}
